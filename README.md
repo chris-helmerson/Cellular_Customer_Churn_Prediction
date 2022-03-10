@@ -59,7 +59,7 @@ Based on our analyses we recommend our stakeholder implement 3 targeted approach
 
   1. Offer discounted or complimentary cell phone upgrades for loyal customers to receive the latest devices. 
   2. Create  a loyalty program to reward multiple subscriber customers.
-  3. Control customer charges by avoiding increasing charges on customers bills. 
+  3. Control customer charges by avoiding increasing fees on customers bills. 
 
 ### Next Steps
 
