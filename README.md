@@ -18,7 +18,7 @@ We used Scikit Learn as well as Sci-py to validate that our model.
 
 ## Modeling
 
-## Baseline Model
+### Baseline Model
 
 
 
