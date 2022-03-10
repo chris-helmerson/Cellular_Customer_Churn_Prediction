@@ -61,6 +61,9 @@ Based on our analyses we recommend our stakeholder implement 3 targeted approach
   2. Create  a loyalty program to reward multiple subscriber customers.
   3. Control customer charges by avoiding increasing charges on customers bills. 
 
+### Next Steps
+
+
 ## For More Information
 View the full analysis via the [Jupyter Notebook](https://github.com/chris161011/P3_Project/blob/main/Main%20Notebook.ipynb).
 
