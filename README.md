@@ -62,7 +62,7 @@ Based on our analyses we recommend our stakeholder implement 3 targeted approach
   3. Control customer charges by avoiding increasing fees on customers bills. 
 
 ### Next Steps
-
+In the near Future, we want to develop a team tasked with proactively addressing churn. This team would be tasked with handling all the predictors that can be seen to contribute to churn. Furthermore, we want to feature engineer our data towards regions. This would allow us to develop localized deals based on a customer's service area. This would come down to using Zip code data as well State data.
 
 ## For More Information
 View the full analysis via the [Jupyter Notebook](https://github.com/chris161011/P3_Project/blob/main/Main%20Notebook.ipynb).
