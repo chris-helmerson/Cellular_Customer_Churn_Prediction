@@ -24,7 +24,7 @@ We ran several models while optimizing hyperparameters throughout. We started of
 
 
 ### Evaluation
-Our models were evaluated for recall. Testing for recall worked best when pertaining to the business problem. As it would show the rate of our model predictive churn vs false negatives.
+Our models were evaluated for recall. Testing for recall worked best when pertaining to the business problem. As it would show the rate of our model predictive churn vs false negatives. Of the models we ran, it appears that a DecisionTreeClassifier optimized with GridSearchCV provided us with the best recall score, of .912 or 91.2%!
 
 
 ![image](https://i.imgur.com/57gFNhT.png)
