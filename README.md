@@ -15,7 +15,7 @@ Our data for this project was sourced from kaggle : https://www.kaggle.com/jpacs
 
 
 ### Methods
-Our dataset comes from an anonymous top 6 cellular provider and contains information on approximately 50,000 customers, collected through 2014. As stated previously, about half of churn is due to nonpayment, though our dataset only contains data of those who churned voluntarily. 
+Our dataset comes from an anonymous top 6 cellular provider and contains information on over 50,000 customers, collected through 2014. As stated previously, about half of churn is due to nonpayment, though our dataset only contains data of those who churned voluntarily. 
 We used Scikit Learn as well as Sci-py to validate that our model. 
 
 
