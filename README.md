@@ -21,34 +21,17 @@ We used Scikit Learn as well as Sci-py to validate that our model.
 
 ## Modeling
 
-### Baseline Model
 
 
 
-### Model 1
+### Results
+
+
+### Evaluation
 
 
 
-### Model 2
-
-
-
-
-### Model 3
-
-
-
-
-
-### Model 4
-
-
-### Final Model
-
-
-
-
-### Conclusions 
+## Conclusions 
 
 We identified the 3 most impactful predictors of churn from our analysis:
 
@@ -56,7 +39,7 @@ We identified the 3 most impactful predictors of churn from our analysis:
   2. Customers are 1.23x times as likely to churn for every additional subscriber added onto a plan.
   3. Customers are 1.16x times as likely to churn for every 1% increase in charges.
 
-### Recommendations
+## Recommendations
 
 Based on our analyses we recommend our stakeholder implement 3 targeted approaches to reduce churn:
 
@@ -64,7 +47,7 @@ Based on our analyses we recommend our stakeholder implement 3 targeted approach
   2. Create  a loyalty program to reward multiple subscriber customers.
   3. Control customer charges by avoiding increasing fees on customers bills. 
 
-### Next Steps
+## Next Steps
 In the near Future, we want to develop a team tasked with proactively addressing churn. This team would be tasked with handling all the predictors that can be seen to contribute to churn. Furthermore, we want to feature engineer our data towards regions. This would allow us to develop localized deals based on a customer's service area. This would come down to using Zip code data as well State data.
 
 ## For More Information
