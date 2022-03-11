@@ -24,11 +24,14 @@ We ran several models while optimizing hyperparameters throughout. We started of
 
 
 ### Evaluation
-Our decision tree model got a recall score of -------. Out perorming our pervious model.---------(Insert photo of confusion matrix and AUC graph)
-EXPLAIN the MODEL HERE
-
-
 Our models were evaluated for recall. Testing for recall worked best when pertaining to the business problem. As it would show the rate of our model predictive churn vs false negatives.
+
+
+![image](https://i.imgur.com/57gFNhT.png)
+
+
+
+
 
 ## Conclusions 
 
