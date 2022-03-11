@@ -20,7 +20,7 @@ We used Scikit Learn as well as Sci-py to validate that our model.
 
 
 ## Modeling
-We ran several models while optimizing hyperparameters throughout. We started off with a dummy baseline model to compare our next models to.  We then went on to running a decision tree to help identify importance features for future model iterations. We procceded to run a logistic regression model as well as a KNN model. In addditon, we also ran a grdsearch on KKN and ran another KNN model with the suggested hyperparameters of the gridsearch.  
+We ran several models while optimizing hyperparameters throughout. We started off with a dummy baseline model to compare our next models to.  We then went on to running a decision tree to help identify importance features for future model iterations. We procceded to run a logistic regression model as well as a KNN model. In addditon, we also ran a gridsearch on KNN and ran another KNN model with the suggested hyperparameters of the gridsearch.  
 
 
 ### Evaluation
