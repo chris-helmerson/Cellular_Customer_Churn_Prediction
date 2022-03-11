@@ -5,7 +5,7 @@
 Authors:  [Chris Helmerson](https://github.com/chris161011), [Richard Hinds](https://github.com/RH3421), and [Olamide Olayinka](https://github.com/olamide-h)
 
 ## Business Problem
-The stakeholder is Flatiron Communications.  The stakeholder has approached us to find out how they can reduce churn with their company. So we are tasked with 
+The stakeholder is Flatiron Communications. The stakeholder has approached us to find out how they can reduce churn with their company. So we are tasked with 
 building a classifier to predict whether a customer will ("soon") stop doing business with our stakeholder. Optimize to reduce amount of money lost due to churn. This is a binary classification problem.
 
 So what is the layout of the cellular market and what is “Churn”? There is currently massive competition between 6 major cellular providers. “Churn” is a jargon term that effectively means customer turnover. There is a major problem with churn within the industry as new cellular customers are arriving at an all time low and with an average Churn Rate 22% per year.  9 out of 10 customers have churned in the last 5 years with about 1/2 of that Churn being attributed to nonpayment. Given that 1 in 4 customers are churning each year, retaining those existing customers has never been more important.
@@ -20,16 +20,15 @@ We used Scikit Learn as well as Sci-py to validate that our model.
 
 
 ## Modeling
-
-
-
-
-### Results
+We ran several models while optimizing hyperparameters throughout. We started off with a dummy baseline model to compare our next models to.  We then went on to running a decision tree to help identify importance features for future model iterations. We procceded to run a logistic regression model as well as a KNN model. In addditon, we also ran a grdsearch on KKN and ran another KNN model with the suggested hyperparameters of the gridsearch.  
 
 
 ### Evaluation
+Our decision tree model got a recall score of -------. Out perorming our pervious model.---------(Insert photo of confusion matrix and AUC graph)
+EXPLAIN the MODEL HERE
 
 
+Our models were evaluated for recall. Testing for recall worked best when pertaining to the business problem. As it would show the rate of our model predictive churn vs false negatives.
 
 ## Conclusions 
 
