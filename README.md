@@ -5,10 +5,13 @@
 Authors:  [Chris Helmerson](https://github.com/chris161011), [Richard Hinds](https://github.com/RH3421), and [Olamide Olayinka](https://github.com/olamide-h)
 
 ## Business Problem
+The stakeholder is Flatiron Communications.  The stakeholder has approached us to find out how they can reduce churn with their company. So we are tasked with 
+building a classifier to predict whether a customer will ("soon") stop doing business with our stakeholder. Optimize to reduce amount of money lost due to churn. This is a binary classification problem.
 
+So what is the layout of the cellular market and what is “Churn”? There is currently massive competition between 6 major cellular providers. “Churn” is a jargon term that effectively means customer turnover. There is a major problem with churn within the industry as new cellular customers are arriving at an all time low and with an average Churn Rate 22% per year.  9 out of 10 customers have churned in the last 5 years with about 1/2 of that Churn being attributed to nonpayment. Given that 1 in 4 customers are churning each year, retaining those existing customers has never been more important.
 
 ## Data and Preparation
-
+Our data for this project was sourced from kaggle : https://www.kaggle.com/jpacse/datasets-for-churn-telecom. The data set contained 58 columns with our target column being churn. 
 
 
 ### Methods
